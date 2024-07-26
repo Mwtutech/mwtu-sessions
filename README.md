@@ -95,11 +95,11 @@ npm start
 *NB:*
 Works for All Secktor-Based/A-17 Based/ Whiskeysockets Bailey's Bots
 - Thanks for Using This Tool
-- Join my [`WhatsApp Channel`](https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l) for Daily Tech Updates
+- Join my [`WhatsApp Channel`](https://whatsapp.com/channel/0029VaamqHTJP212NuXUc40F) for Daily Tech Updates
 - You can customise it according to your needs but don't forget to give credits.
 
-- MADE WITH 💛 BY GIFTED TECH
+- MADE WITH 💛 BY MWTU TECH
 - © 2024 All Rights Reserved!
 
 
-- **[CONTACT OWNER](https://t.me/giftedmd)**
+- **[CONTACT OWNER](https://t.me/mwtuofficial)**
