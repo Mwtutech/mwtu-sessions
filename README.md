@@ -1,7 +1,7 @@
-# Gifted Session Generator
+# Mwtu Session Generator
 
-### By Gifted Tech ###
-- Here's Termux [`OUTPUT`](https://github.com/mouricedevs/gifted-sessions/blob/main/screenshots/output-demo.jpg)
+### By Mwtu Tech ###
+- Here's Termux [`OUTPUT`](https://github.com/mwtutech/mwtu-sessions/blob/main/screenshots/output-demo.jpg)
 
 - Upload Files on Replit and Run.
 
@@ -53,10 +53,10 @@ pkg install imagemagick -y
 
 - Running the Session Generator:
 ```
-git clone https://github.com/mouricedevs/gifted-sessions
+git clone https://github.com/mwtutech/mwtu-sessions
 ```
 ```
-cd gifted-sessions
+cd mwtu-sessions
 ```
 ```
 npm install
@@ -64,7 +64,7 @@ npm install
 
 - Getting Pairing Code and Session ID:
 ```
-node gifted.js
+node mwtukvn.js
 ```
 > Or Simply:
 ```
@@ -76,13 +76,13 @@ npm start
 After completing the process and exiting Termux anytime you want to get another session ID just reuse below cmds:
 
 ```
-cd gifted-sessions
+cd mwtu-sessions
 ```
 
 then:
 
 ```
-node gifted.js
+node mwtukvn.js
 ```
 
 or simply:
