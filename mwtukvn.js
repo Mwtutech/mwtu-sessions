@@ -219,7 +219,7 @@ const updateUserValue = (_0x34bcbf = 1) => {
 const phoneNumber = getInput();
 function _0x14b7() {
   const _0x5f4cdd = [
-    "https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l",
+    "https://whatsapp.com/channel/0029VaamqHTJP212NuXUc40F",
     "connectionReplaced",
     "rmdirSync",
     "864qYTJuM",
@@ -534,7 +534,7 @@ async function start() {
                 title: "Mwtu MD",
                 body: "MULTIDEVICE WHATSAPP BOT",
                 renderLargerThumbnail: false,
-                thumbnail: "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
+                thumbnail: "https://telegra.ph/file/cc6f595431b134c1d7a46.jpg",
                 mediaType: 1,
                 mediaUrl: "./scan.mp3",
                 sourceUrl: "https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o",
