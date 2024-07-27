@@ -1,7 +1,7 @@
 # Mwtu Session Generator
 
 ### By Mwtu Tech ###
-- Here's Termux [`OUTPUT`](https://github.com/mwtutech/mwtu-sessions/blob/main/screenshots/output-demo.jpg)
+- Here's Termux [`OUTPUT`](https://github.com/mwtutech/mwtu-sessions/blob/main/screenshots/Output-demo.jpg)
 
 - Upload Files on Replit and Run.
 
